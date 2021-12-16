@@ -1,0 +1,41 @@
+#Profile{
+	height: 200px;
+	border-radius: 25px;
+}
+
+#table_content{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 25px;
+	text-align: justify;
+}
+
+#table_content th{
+	font-size: 20px;
+}
+
+.ed_pic{
+	height: 200px;
+}
+
+#table_new td{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#Project_title{
+	font-size: 40px;
+	margin-top: 0px;
+}
+
+#project_table{
+	text-align: center;
+}
+
+#project_table .project_pictures img{
+	height: 250px;
+}
+
+#project_table .project_title{
+	font-weight: bold;
+}
